@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/superdesk/superdesk-client-core/badges/gpa.svg)](https://codeclimate.com/github/superdesk/superdesk-client-core)
 ### Installation
 
-For installation instructions, please refer to the README file at: [https://github.com/superdesk/superdesk/](https://github.com/superdesk/superdesk/ "")
+For installation instructions, please refer to the README file adffdfdt: [https://github.com/superdesk/superdesk/](https://github.com/superdesk/superdesk/ "")
 
 ### Contributing
 
